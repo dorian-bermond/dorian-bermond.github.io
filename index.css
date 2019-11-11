@@ -20,3 +20,9 @@ line.raisedArms
 {
   display: none ;
 }
+
+circle.mouseOver
+{
+  onmouseover : Hover() ;
+  oumouseout : notHover() ;
+}
