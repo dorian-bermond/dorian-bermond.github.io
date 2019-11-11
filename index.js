@@ -1,4 +1,4 @@
-document.getElementById('Head').addEventListener("onmouseover", Hover) ;
+//document.getElementById('Head').addEventListener("onmouseover", Hover) ;
 console.log("Get") ;
 
 function Hover()
